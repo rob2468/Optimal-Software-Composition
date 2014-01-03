@@ -6,4 +6,4 @@
 PNUM=5
 
 # the number of softwares
-SNUM=5
+SNUM=4
